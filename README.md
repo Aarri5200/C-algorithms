@@ -1,2 +1,2 @@
 C Algorithms
--Ari Daman Singh
+-Ari
