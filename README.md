@@ -1,2 +1,2 @@
-xC Algorithm gg
+xC Algorihthm gg
 
