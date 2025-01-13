@@ -1,2 +1,2 @@
-tC Algorihthm 
+C Algorihthm 
 
