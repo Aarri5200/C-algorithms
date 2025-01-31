@@ -1,2 +1,2 @@
-jC Algorithm 
+gjC Algorithm 
 
