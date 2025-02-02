@@ -1,2 +1,2 @@
-gfgjC Algorithm 
+gfC Algorithm 
 
