@@ -1,2 +1,2 @@
-C Algorithm 
+C Algorithms
 
