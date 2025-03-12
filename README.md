@@ -1,2 +1,2 @@
-wtfC Algorithms
+wtC Algorithms
 
